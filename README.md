@@ -1,9 +1,13 @@
 # A_star-Search-Algorithm-for-Irregular-6x6-Sudoku
 This project is an implementation of the A* search algorithm for solving irregular 6x6 Sudoku puzzles. Irregular Sudoku, also known as Jigsaw Sudoku, introduces a new level of complexity by dividing the puzzle into irregularly shaped regions, making it a fascinating challenge for puzzle solvers.
 
+Here, we're using the A* search algorithm with the SimpleAI module, based on the "Artificial Intelligence, a Modern Approach" book. Our goal is to treat the irregular sudoku puzzle as a search problem and create heuristics to avoid revisiting the same states in the algorithm.
+
 ### About Irregular Sudoku:
 
 Irregular Sudoku, or Jigsaw Sudoku, presents an engaging challenge by dividing the 6x6 grid into irregularly shaped regions, making it an interesting twist on the classic puzzle.
+An irregular 6x6 sudoku has the following form:
+![bfb52e622b842aa5d16326df23217f32](https://github.com/priyankagupta0/A_star-Search-Algorithm-for-Irregular-6x6-Sudoku/assets/88431384/8bf75569-fdc5-4792-894e-4a4ad70f142a)
 
 ### A* Search Algorithm:
 
