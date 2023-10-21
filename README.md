@@ -7,7 +7,7 @@ Here, we're using the A* search algorithm with the SimpleAI module, based on the
 
 Irregular Sudoku, or Jigsaw Sudoku, presents an engaging challenge by dividing the 6x6 grid into irregularly shaped regions, making it an interesting twist on the classic puzzle.
 An irregular 6x6 sudoku has the following form:
-<div style='text-align: center';> <img src='[https://i.imgur.com/ckQ8rn7.png](https://github.com/priyankagupta0/A_star-Search-Algorithm-for-Irregular-6x6-Sudoku/assets/88431384/8bf75569-fdc5-4792-894e-4a4ad70f142a)' alt='Sudoku grid img'  width='50%'> </div>
+<div style='text-align: center';> <img src='https://github.com/priyankagupta0/A_star-Search-Algorithm-for-Irregular-6x6-Sudoku/assets/88431384/8bf75569-fdc5-4792-894e-4a4ad70f142a' alt='Sudoku grid img'  width='50%'> </div>
 
 ### A* Search Algorithm:
 
