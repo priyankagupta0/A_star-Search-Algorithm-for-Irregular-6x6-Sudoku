@@ -16,3 +16,7 @@ A* is a widely used pathfinding algorithm that can efficiently find the shortest
 ### Project Goals:
 
 The primary goal of this project is to provide a solver for irregular 6x6 Sudoku puzzles using the A* search algorithm. The algorithm will find a solution to the puzzle and demonstrate the efficiency and effectiveness of A* in this context.
+
+### Visualization:
+<div style='text-align: center';> <img src='graph.png' alt='Sudoku graph img'  width='50%'> </div>
+
