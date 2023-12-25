@@ -18,4 +18,6 @@ A* is a widely used pathfinding algorithm that can efficiently find the shortest
 The primary goal of this project is to provide a solver for irregular 6x6 Sudoku puzzles using the A* search algorithm. The algorithm will find a solution to the puzzle and demonstrate the efficiency and effectiveness of A* in this context.
 
 ### Visualization:
+
+Used simpleAI's algorithms interactive viewer, WebViewer to visualize the algorithm.
 ![Graph](https://github.com/priyankagupta0/A_star-Search-Algorithm-for-Irregular-6x6-Sudoku/blob/main/graph.png)
